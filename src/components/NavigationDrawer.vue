@@ -15,7 +15,7 @@
           </v-ist>
 
           <v-list flat>
-              <v-list-item router to="/">
+              <v-list-item router to="dashboard">
               <v-list-item-content>
                   <v-icon class="mb-2">dashboard</v-icon>
                   <v-list-item-subtitle align="center">Dashboard</v-list-item-subtitle>  

@@ -53,7 +53,7 @@
                     </v-card-text>
 
                     <div class="text-center mt-4">
-                      <v-btn  width="250" height="50" rounded color="cyan darken-2" dark>Log in</v-btn>
+                      <v-btn  width="250" height="50" rounded color="cyan darken-2" dark to="/dashboard">Log in</v-btn>
                     </div>
                     <div class="text-center mt-4">
                       <v-btn outlined width="250" height="50" rounded color="cyan darken-2" dark>Continue as a guest</v-btn>
